@@ -1,0 +1,1 @@
+This repo contains MATLAB code for measuring and synthesizing sounds from the models described in the paper **Neural responses to natural and model-matched stimuli reveal distinct computations in primary and nonprimary auditory cortex** — S V Norman-Haignere, J H McDermott. _PLOS Biology_, 16:1-46, Dec 2018. 
